@@ -13,7 +13,7 @@ export default function header() {
 
 
     return (
-        <div className='fixed mx-auto top-0 header' >
+        <div className='fixed w-full mx-auto top-0 header' >
             <div className=' bg-gray-600 container' >
 
                 <div className='flex lg:flex-row items-center justify-between flex-row-reverse'>
